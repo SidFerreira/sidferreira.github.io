@@ -10,8 +10,8 @@
   #current-projects {
     page-break-before: left;
   }
-  #finished-projects + ul li {
-    page-break-before: left;
+  #finished-projects + ul > li {
+//    page-break-before: left;
   }
   .project-name {
     color: #159957;
