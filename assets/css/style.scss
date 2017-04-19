@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media only print {
+  .project-tagline {
+    display: none;
+  }
+  #finished-projects + ul li {
+    page-break-before: auto;
+  }
+}
