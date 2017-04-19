@@ -33,8 +33,7 @@ The point is: if you work with a nice team, with nice people, you can work your 
  
 ### I want to learn soon ###
 
-* Javascript Technologies
-  * Angular (2... no... 4? Can this guys calm down?!)
+* Angular (2... no... 4? Can this guys calm down?!)
 * Swift (iOS)
 * Java
 
@@ -116,6 +115,7 @@ The point is: if you work with a nice team, with nice people, you can work your 
   * Partner: [Nextt](http://www.nextt.com.br/)
   * Role: WordPress Developer
   * Tech: WordPress, Amazon AWS, Git Flow, Git
+  
 
 ### I Almost Did ###
 
