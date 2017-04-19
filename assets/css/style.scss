@@ -7,11 +7,11 @@
   .project-tagline {
     display: none;
   }
-  #current-projects {
+  #current-projects, #past-jobs {
     page-break-before: left;
   }
   #finished-projects + ul > li {
-    &:nth-child(6) {
+    &:nth-child(7) {
       page-break-before: always;
     }
   }
