@@ -1,4 +1,4 @@
-### About ME ###
+### About ###
 
 I'm Sidney Ferreira, I've been working with development a long time ago. 
 I started at 16 when a friend of mine told about "Programming Logics" course.
@@ -61,12 +61,7 @@ The point is: if you work with a nice team, with nice people, you can work your 
   * Role: FrontEnd Developer
   * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout
 
-* [Ground Zero Festival](https://www.gabbers.nl/): Website for a techno festival from Netherlands
-  * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: FrontEnd Developer
-  * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout, WooCommerce (including updates)
-  
-* [Ground Zero Festival](https://www.gabbers.nl/): Website for a techno festival from Netherlands
+* [Ground Zero Festival](https://www.groundzerofestival.nl/): Website for a techno festival from Netherlands
   * Partnership: [Qikker Online](https://qikkeronline.nl/)
   * Role: FrontEnd Developer
   * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout, WooCommerce (including updates)
@@ -86,7 +81,7 @@ The point is: if you work with a nice team, with nice people, you can work your 
   * Role: FrontEnd Developer
   * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout, WooCommerce
  
-* [Sint in Amsterdam](http://www.prodock.nl/): Website for the Sinterklaas, a folkloric person from Netherlands
+* [Sint in Amsterdam](http://www.sintinamsterdam.nl/): Website for the Sinterklaas, a folkloric person from Netherlands
   * Partnership: [Qikker Online](https://qikkeronline.nl/)
   * Role: Sole FrontEnd Developer
   * Tech: WordPress, SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), Font Icons, Responsive Layout
