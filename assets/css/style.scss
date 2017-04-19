@@ -3,20 +3,14 @@
 
 @import "{{ site.theme }}";
 
-//@media only print {
-  .project-tagline {
+@media only print {
+  .project-tagline, .site-footer {
     display: none;
   }
-  #current-projects, #past-jobs {
-    page-break-before: left;
-  }
-  #finished-projects + ul > li {
-    &:nth-child(7) {
-      page-break-before: always;
-    }
+  #current-projects, #past-jobs, #finished-projects + ul > li:nth-child(7) {
+    page-break-before: always;
   }
   .project-name {
     color: #159957;
   }
-
-//}
+}
