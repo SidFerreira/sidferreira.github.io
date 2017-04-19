@@ -115,12 +115,34 @@ The point is: if you work with a nice team, with nice people, you can work your 
   * Partner: [Nextt](http://www.nextt.com.br/)
   * Role: WordPress Developer
   * Tech: WordPress, Amazon AWS, Git Flow, Git
-  
 
 ### I Almost Did ###
 
 * HighRide: ** *CANCELED* ** This project was a reward program. I was the Android and BackEnd developer. The project was cancelled for funding issues.
  * Tech: Android, Android Studio, BitBucket, Firebase, Heroku, Node, Express, MongoDB, Mongoose
 
-## Jobs I had ##
+## Places I worked ##
 
+### Remote Front End Developer at [Qikker Online](https://qikkeronline.nl/) ( Netherlands ) ###
+ * From Aug 2015 to Nov 2016
+ * Techs: WordPress, Git, GitFlow
+ * Details: Qikker Online is a great digital agency from Netherlands which I've been working part time. Focused in WordPress development, other than maintenance on some frameworks. I've worked as frontend developer, creating fantastic projects.
+
+### Junior Mobile Developet at [Neoway](http://www.neoway.com.br/) ###
+ * From Jun 2014 to Nov 2014
+ * Techs: Sencha Touch, Ionic Framework, AngularJS, UX, ObjectiveC, iOS Development
+ * Details: Neoway is a great technology company in Brazil and outside of it. My releationship there was short because the project was cancelled and I was laid off.
+ 
+### Web Developer at [Nextt](http://www.nextt.com.br/) ### 
+ * From Aug 2012 to Jun 2014
+ * Techs: WordPress, Nginx, MySQL, JQuery, RESTFULL, JSON, Ajax, Responsive Design, SCSS, Scrum, Kanban, AWS, SSH, Unit Testing
+ * Details: Nextt is a great company focused in UX. There we had mainly WordPress projects but always using OOP, MVC and Testing. My role in this company was to code up most of the challenges our clients had. Working as something near to a Dev Ops, had much fun creating integrations with Google's DFP, SendGrid API and others. Most of my time was around the project "Adventistas.org", which the client can give great feedbacks about my job (macintoshiano@gmail.com).
+
+## Education ##
+
+### Information Systems Degree – [Unijui](http://www.unijui.edu.br/) ###
+ * From 2001 to 2006
+ * Highlights: Linux, Unix, PHP, MySQL
+ * Details: A mix between Computer Science and Administration, I ve learned a lot studying but learned programming with pascal back in 1996. PHP was learned as an extra curricular project and web became my job. Despite of being a small university, at that time it was well known for it's linux and unix classes.
+ 
+ 
