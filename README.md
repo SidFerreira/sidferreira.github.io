@@ -1,6 +1,4 @@
-# Sidney Ferreira's Resume #
-
-### ME ###
+### About ME ###
 
 I'm Sidney Ferreira, I've been working with development a long time ago. 
 I started at 16 when a friend of mine told about "Programming Logics" course.
