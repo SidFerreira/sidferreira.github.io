@@ -101,12 +101,12 @@ The point is: if you work with a nice team, with nice people, you can work your 
   * Role: Sole FrontEnd Developer
   * Tech: WordPress, SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), Font Icons, Responsive Layout
 
-* CETIP Tool: *Non Public App* App for car documentation. My task was to develope and improve features for iOS devices 
+* CETIP Tool: ** *Non Public App* ** App for car documentation. My task was to develope and improve features for iOS devices 
   * Partnership: [Neoway](http://www.neoway.com.br/)
   * Role: iOS Developer
   * Tech: ObjectiveC, Sencha Touch, Cordova
 
-* [Gazo](https://play.google.com/store/apps/details?id=br.com.neoway.gazo): *ABANDONED* Gas price app. The owner company abandoned the project for unknown reasons.
+* [Gazo](https://play.google.com/store/apps/details?id=br.com.neoway.gazo): ** *ABANDONED* ** Gas price app. The owner company abandoned the project for unknown reasons.
   * Partnership: [Neoway](http://www.neoway.com.br/)
   * Role: Mobile Developer
   * Tech: Sencha Touch, Cordova
@@ -119,7 +119,7 @@ The point is: if you work with a nice team, with nice people, you can work your 
 
 ### I Almost Did ###
 
-* HighRide: *CANCELED* This project was a reward program. I was the Android and BackEnd developer. The project was cancelled for funding issues.
+* HighRide: ** *CANCELED* ** This project was a reward program. I was the Android and BackEnd developer. The project was cancelled for funding issues.
  * Tech: Android, Android Studio, BitBucket, Firebase, Heroku, Node, Express, MongoDB, Mongoose
 
 ## Jobs I had ##
