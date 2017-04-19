@@ -7,21 +7,14 @@ Since then I "sold my soul" for computers :D
 I'm a self starter and self-taught, almost everything I work I learned by my self. Including english, PHP and Android.
 But I still humble: time to time I look for courses to polish my knowledge.
 
-### Looking For ###
-
+### Looking for ###
 I love PHP, JavaScript, Mobile and many other things. And IMHO a developer must love to develop, whatever the language it is (it took some time to learn that sadly). That's why it's hard to limit what I'm looking for. So:
-
-I would like to work with FrontEnd because I love to learn about UX and make beautiful UI
-
-I would like to work with BackEnd beacuse I like to know the project from top to bottom, that's the only way you make a solid API
-
-I'm open to some other positions too because I love to learn. 
-
+* I would like to work with FrontEnd because I love to learn about UX and make beautiful UI
+* I would like to work with BackEnd beacuse I like to know the project from top to bottom, that's the only way you make a solid API
+* I'm open to some other positions too because I love to learn. 
 The point is: if you work with a nice team, with nice people, you can work your way to be happy.
 
-## Things ##
-
-### I like to work ###
+### Favourite tech stack ###
 
 * JavaScript Technologies: ReactJS + Redux, React Native, Ionic, AngularJS, NodeJS, ExpressJS
 * Mobile: Android, ObjectiveC, Cordova
@@ -29,13 +22,13 @@ The point is: if you work with a nice team, with nice people, you can work your 
 * Tools: Zeplin, Sketch, Invision, Photoshop Illustrator, Slack, Git,
 * Methodologies: BEM, Git Flow, [StandardJS](https://standardjs.com/)
  
-### I want to learn soon ###
+### Techs I want to Learn ###
 
 * Angular (2... no... 4? Can this guys calm down?!)
 * Swift (iOS)
 * Java (I know some stuff, enough for Android, but I want to learn the real thing)
 
-### I'm Working On ###
+### Current Projects ###
 
 * [My Venuely](http://myvenuely.com/): Small startup project related to Wedding Venues.
   * Tech: Firebase (DB, Auth, Functions, Push, Hosting), 
@@ -51,7 +44,7 @@ The point is: if you work with a nice team, with nice people, you can work your 
   1. ReactJS, Firebase, Facebook API (Website + Admin Dashboard)
   2. Angular 2, Firebase (Admin Dashboard + Ionic APP integration
 
-### I Did ###
+### Finished Projects ###
 
 * [Twittume](http://twittume.com/): Ionic App (Android/iOS/Web) + Landing page for this Resume Tool
   * Tech: [Ionic Framework](http://ionicframework.com/docs/), PSD to HTML, Critical Path CSS, iOS App Publishing, Android App Publishing,
@@ -114,13 +107,12 @@ The point is: if you work with a nice team, with nice people, you can work your 
   * Role: WordPress Developer
   * Tech: WordPress, Amazon AWS, Git Flow, Git
 
-### I Almost Did ###
+### Projects never published ###
 
 * HighRide: **_CANCELED_** This project was a reward program. I was the Android and BackEnd developer. The project was cancelled for funding issues.
- * Tech: Android, Android Studio, BitBucket, Firebase, Heroku, Node, Express, MongoDB, Mongoose
+  * Tech: Android, Android Studio, BitBucket, Firebase, Heroku, Node, Express, MongoDB, Mongoose
 
-## Places I worked ##
-
+## Past jobs ##
 ### Remote Front End Developer at [Qikker Online](https://qikkeronline.nl/) ( Netherlands ) ###
  * From Aug 2015 to Nov 2016
  * Techs: WordPress, Git, GitFlow
@@ -137,8 +129,7 @@ The point is: if you work with a nice team, with nice people, you can work your 
  * Details: Nextt is a great company focused in UX. There we had mainly WordPress projects but always using OOP, MVC and Testing. My role in this company was to code up most of the challenges our clients had. Working as something near to a Dev Ops, had much fun creating integrations with Google's DFP, SendGrid API and others. Most of my time was around the project "Adventistas.org", which the client can give great feedbacks about my job (macintoshiano@gmail.com).
 
 ## Education ##
-
-### Information Systems Degree – [Unijui](http://www.unijui.edu.br/) ###
+### Information Systems Bachelor – [Unijui](http://www.unijui.edu.br/) ###
  * From 2001 to 2006
  * Highlights: Linux, Unix, PHP, MySQL
  * Details: A mix between Computer Science and Administration, I ve learned a lot studying but learned programming with pascal back in 1996. PHP was learned as an extra curricular project and web became my job. Despite of being a small university, at that time it was well known for it's linux and unix classes.
