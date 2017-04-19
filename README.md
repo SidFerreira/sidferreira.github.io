@@ -33,7 +33,7 @@ The point is: if you work with a nice team, with nice people, you can work your 
 
 * Angular (2... no... 4? Can this guys calm down?!)
 * Swift (iOS)
-* Java
+* Java (I know some stuff, enough for Android, but I want to learn the real thing)
 
 ### I'm Working On ###
 
