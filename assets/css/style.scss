@@ -3,11 +3,15 @@
 
 @import "{{ site.theme }}";
 
-@media only print {
+//@media only print {
   .project-tagline {
     display: none;
   }
   #finished-projects + ul li {
-    page-break-before: auto;
+    page-break-before: left;
   }
-}
+  .project-name {
+    color: #159957;
+  }
+
+//}
