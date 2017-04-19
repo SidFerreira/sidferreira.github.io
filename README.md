@@ -45,8 +45,10 @@ The point is: if you work with a nice team, with nice people, you can work your 
    React Native, 
    Redux, 
    WebPack, 
+   SVG,
    Facebook API, 
   [StandardJS](https://standardjs.com/)
+  * Role: Solo Developer
 
 * NDA Projects: Projects that I can't disclose right now, but talking about tech stack
   1. ReactJS, Firebase, Facebook API (Website + Admin Dashboard)
@@ -55,8 +57,33 @@ The point is: if you work with a nice team, with nice people, you can work your 
 ### I Did ###
 
 * [Twittume](http://twittume.com/): Ionic App (Android/iOS/Web) + Landing page for this Resume Tool
-  * Tech: Ionic (AngularJS), PSD to HTML, Critical Path CSS, iOS App Publishing, Android App Publishing,
+  * Tech: [Ionic Framework](http://ionicframework.com/docs/), PSD to HTML, Critical Path CSS, iOS App Publishing, Android App Publishing,
   [StandardJS](https://standardjs.com/)
+  * Role: FrontEnd Developer
+
+* [Dinnershow](https://www.dinnershow.nl/): Website for a show from Netherlands
+  * Partnership: [Qikker Online](https://qikkeronline.nl/)
+  * Role: FrontEnd Developer
+  * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout
+
+* [Gabbers](https://www.gabbers.nl/): Website for a comedy/standup show from Netherlands
+  * Partnership: [Qikker Online](https://qikkeronline.nl/)
+  * Role: FrontEnd Developer
+  * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout
+
+* [Ground Zero Festival](https://www.gabbers.nl/): Website for a techno festival from Netherlands
+  * Partnership: [Qikker Online](https://qikkeronline.nl/)
+  * Role: FrontEnd Developer
+  * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout, WooCommerce (including updates)
+  
+* [Ground Zero Festival](https://www.gabbers.nl/): Website for a techno festival from Netherlands
+  * Partnership: [Qikker Online](https://qikkeronline.nl/)
+  * Role: FrontEnd Developer
+  * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout, WooCommerce (including updates)
+
+https://www.groundzerofestival.nl/ (WooCommerce)
+http://www.sintinamsterdam.nl/
+https://www.superexperience.com/ http://www.prodock.nl/
 
 ### I Almost Did ###
 
