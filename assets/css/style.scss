@@ -11,7 +11,9 @@
     page-break-before: left;
   }
   #finished-projects + ul > li {
-//    page-break-before: left;
+    &:nth-child(6) {
+      page-break-before: always;
+    }
   }
   .project-name {
     color: #159957;
