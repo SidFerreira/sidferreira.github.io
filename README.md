@@ -101,12 +101,17 @@ The point is: if you work with a nice team, with nice people, you can work your 
   * Role: Sole FrontEnd Developer
   * Tech: WordPress, SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), Font Icons, Responsive Layout
 
-* (Gazo)[https://play.google.com/store/apps/details?id=br.com.neoway.gazo]: *ABANDONED* Gas price app. The owner company abandoned the project for unknown reasons.
+* CETIP Tool: *Non Public App* App for car documentation. My task was to develope and improve features for iOS devices 
+  * Partnership: [Neoway](http://www.neoway.com.br/)
+  * Role: iOS Developer
+  * Tech: ObjectiveC, Sencha Touch, Cordova
+
+* [Gazo](https://play.google.com/store/apps/details?id=br.com.neoway.gazo): *ABANDONED* Gas price app. The owner company abandoned the project for unknown reasons.
   * Partnership: [Neoway](http://www.neoway.com.br/)
   * Role: Mobile Developer
   * Tech: Sencha Touch, Cordova
 
-* (SDA portal)[http://www.adventistas.org/pt/]: WordPress portal for the South American Division from the Seventh Day Adventist Church.
+* [SDA portal](http://www.adventistas.org/pt/): WordPress portal for the South American Division from the Seventh Day Adventist Church.
   * Details: This is a huge portal we developer over a whole year. One of the requests was that the portal had distributed installs (one for each department) but they wanted to have a way that one install could fetch posts from other installs, including thumbnails, metadata, etc. We developed a custom WP Query for that. Also we created a Widget plugin so users could fetch the information and display in any way they wanted. We even had a (styleguide)[http://styleguide.adventistas.org/pt/] for other developers. Everything was developed as Plugins or Generic themes, so users could extend the themes the way they wanted
   * Partner: [Nextt](http://www.nextt.com.br/)
   * Role: WordPress Developer
