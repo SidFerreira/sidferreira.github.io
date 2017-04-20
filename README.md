@@ -1,16 +1,16 @@
-### About ###
+### About me ###
 
-I'm Sidney Ferreira, I've been working with development a long time ago. 
-I started at 16 when a friend of mine told about "Programming Logics" course.
+I'm Sidney Ferreira, I've been a developer a long time now. 
+I started at 16 when a friend of mine told me about a "Programming Logics" course.
 Since then I "sold my soul" for computers :D
 
-I'm a self starter and self-taught, almost everything I work I learned by my self. Including english, PHP and Android.
-But I still humble: time to time I look for courses to polish my knowledge.
+I'm a self starter and self-taught, almost everything I work I learned by myself. Including english, PHP and Android.
+But I'm still humble: from time to time I look for courses to polish my knowledge.
 
 ### Looking for ###
 I love PHP, JavaScript, Mobile and many other things. And IMHO a developer must love to develop, whatever the language it is (it took some time to learn that sadly). That's why it's hard to limit what I'm looking for. So:
-* I would like to work with FrontEnd because I love to learn about UX and make beautiful UI
-* I would like to work with BackEnd beacuse I like to know the project from top to bottom, that's the only way you make a solid API
+* I would like to work with Front-end because I love to learn about UX and make beautiful UI
+* I would like to work with Back-end beacuse I like to know the project from top to bottom, that's the only way you make a solid API
 * I'm open to some other positions too because I love to learn. 
 The point is: if you work with a nice team, with nice people, you can work your way to be happy.
 
@@ -42,51 +42,51 @@ The point is: if you work with a nice team, with nice people, you can work your 
 
 * NDA Projects: Projects that I can't disclose right now, but talking about tech stack
   1. ReactJS, Firebase, Facebook API (Website + Admin Dashboard)
-  2. Angular 2, Firebase (Admin Dashboard + Ionic APP integration
+  2. Angular 2, Firebase (Admin Dashboard + Ionic APP integration)
 
 ### Finished Projects ###
 
 * [Twittume](http://twittume.com/): Ionic App (Android/iOS/Web) + Landing page for this Resume Tool
   * Tech: [Ionic Framework](http://ionicframework.com/docs/), PSD to HTML, Critical Path CSS, iOS App Publishing, Android App Publishing,
   [StandardJS](https://standardjs.com/)
-  * Role: FrontEnd Developer
+  * Role: Front-end Developer
 
 * [Dinnershow](https://www.dinnershow.nl/): Website for a show from Netherlands
   * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: FrontEnd Developer
+  * Role: Front-end Developer
   * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout
 
 * [Gabbers](https://www.gabbers.nl/): Website for a comedy/standup show from Netherlands
   * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: FrontEnd Developer
+  * Role: Front-end Developer
   * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout
 
 * [Ground Zero Festival](https://www.groundzerofestival.nl/): Website for a techno festival from Netherlands
   * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: FrontEnd Developer
+  * Role: Front-end Developer
   * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout, WooCommerce (including updates)
 
 * [Dance Valley Festival](https://dancevalley.com/): Website for a music festival from Netherlands
   * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: FrontEnd Developer
+  * Role: Front-end Developer
   * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout, WooCommerce (including updates)
 
 * [Prodock](http://www.prodock.nl/): Website for a coworking space in Amsterdam
   * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: FrontEnd Developer
+  * Role: Front-end Developer
   * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout
   
 * [Super Car Experience](https://www.superexperience.com/): Website for a coworking space in Amsterdam
   * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: FrontEnd Developer
+  * Role: Front-end Developer
   * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout, WooCommerce
  
 * [Sint in Amsterdam](http://www.sintinamsterdam.nl/): Website for the Sinterklaas, a folkloric person from Netherlands
   * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: Sole FrontEnd Developer
+  * Role: Sole Front-end Developer
   * Tech: WordPress, SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), Font Icons, Responsive Layout
 
-* CETIP Tool: **_Non Public App_** App for car documentation. My task was to develope and improve features for iOS devices 
+* CETIP Tool: **_Non Public_** App for car documentation. My task was to develope and improve features for iOS devices 
   * Partnership: [Neoway](http://www.neoway.com.br/)
   * Role: iOS Developer
   * Tech: ObjectiveC, Sencha Touch, Cordova
@@ -127,6 +127,6 @@ The point is: if you work with a nice team, with nice people, you can work your 
 ### Information Systems Bachelor – [Unijui](http://www.unijui.edu.br/) ###
  * From 2001 to 2006
  * Highlights: Linux, Unix, PHP, MySQL
- * Details: A mix between Computer Science and Administration, I ve learned a lot studying but learned programming with pascal back in 1996. PHP was learned as an extra curricular project and web became my job. Despite of being a small university, at that time it was well known for it's linux and unix classes.
+ * Details: A mix between Computer Science and Administration, I ve learned a lot studying but learned programming with pascal back in 1996. PHP was learned as an extra curricular project and web became my job. Despite being a small university, at that time it was well known for it's linux and unix classes.
  
  
