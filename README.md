@@ -44,68 +44,27 @@ The point is: if you work with a nice team, with nice people, you can work your 
   1. ReactJS, Firebase, Facebook API (Website + Admin Dashboard)
   2. Angular 2, Firebase (Admin Dashboard + Ionic APP integration)
 
-### Finished Projects ###
+### Recent Projects ###
 
 * [Twittume](http://twittume.com/): Ionic App (Android/iOS/Web) + Landing page for this Resume Tool
-  * Tech: [Ionic Framework](http://ionicframework.com/docs/), PSD to HTML, Critical Path CSS, iOS App Publishing, Android App Publishing,
-  [StandardJS](https://standardjs.com/)
-  * Role: Front-end Developer
+* [Dinnershow](https://www.dinnershow.nl/): Custom WordPress Theme for a show from Netherlands
+* [Gabbers](https://www.gabbers.nl/): Custom WordPress Theme for a comedy/standup show from Netherlands
+* [Ground Zero Festival](https://www.groundzerofestival.nl/): Custom WordPress Theme for a techno festival from Netherlands
+* [Dance Valley Festival](https://dancevalley.com/): Custom WordPress Theme for a music festival from Netherlands
+* [Prodock](http://www.prodock.nl/): Custom WordPress Theme for a coworking space in Amsterdam  
+* [Super Car Experience](https://www.superexperience.com/): Custom WordPress Theme for a coworking space in Amsterdam
+* [Sint in Amsterdam](http://www.sintinamsterdam.nl/): Custom WordPress Theme for the Sinterklaas, a folkloric person from Netherlands
 
-* [Dinnershow](https://www.dinnershow.nl/): Website for a show from Netherlands
-  * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: Front-end Developer
-  * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout
-
-* [Gabbers](https://www.gabbers.nl/): Website for a comedy/standup show from Netherlands
-  * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: Front-end Developer
-  * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout
-
-* [Ground Zero Festival](https://www.groundzerofestival.nl/): Website for a techno festival from Netherlands
-  * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: Front-end Developer
-  * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout, WooCommerce (including updates)
-
-* [Dance Valley Festival](https://dancevalley.com/): Website for a music festival from Netherlands
-  * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: Front-end Developer
-  * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout, WooCommerce (including updates)
-
-* [Prodock](http://www.prodock.nl/): Website for a coworking space in Amsterdam
-  * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: Front-end Developer
-  * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout
-  
-* [Super Car Experience](https://www.superexperience.com/): Website for a coworking space in Amsterdam
-  * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: Front-end Developer
-  * Tech: WordPress, [BEM](http://getbem.com/introduction/), SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), SVG, Font Icons, Responsive Layout, WooCommerce
- 
-* [Sint in Amsterdam](http://www.sintinamsterdam.nl/): Website for the Sinterklaas, a folkloric person from Netherlands
-  * Partnership: [Qikker Online](https://qikkeronline.nl/)
-  * Role: Sole Front-end Developer
-  * Tech: WordPress, SCSS, PSD to HTML, [Advanced Custom Fields](https://www.advancedcustomfields.com/), Font Icons, Responsive Layout
-
-* CETIP Tool: **_Non Public_** App for car documentation. My task was to develope and improve features for iOS devices 
-  * Partnership: [Neoway](http://www.neoway.com.br/)
-  * Role: iOS Developer
-  * Tech: ObjectiveC, Sencha Touch, Cordova
+* CETIP Tool: **_Non Public_** App for car documentation. My task was to develope and improve features for iOS devices
 
 * [Gazo](https://play.google.com/store/apps/details?id=br.com.neoway.gazo): **_ABANDONED_** Gas price app. The owner company abandoned the project for unknown reasons.
-  * Partnership: [Neoway](http://www.neoway.com.br/)
-  * Role: Mobile Developer
-  * Tech: Sencha Touch, Cordova
 
 * [SDA portal](http://www.adventistas.org/pt/): WordPress portal for the South American Division from the Seventh Day Adventist Church.
   * Details: This is a huge portal we developer over a whole year. One of the requests was that the portal had distributed installs (one for each department) but they wanted to have a way that one install could fetch posts from other installs, including thumbnails, metadata, etc. We developed a custom WP Query for that. Also we created a Widget plugin so users could fetch the information and display in any way they wanted. We even had a (styleguide)[http://styleguide.adventistas.org/pt/] for other developers. Everything was developed as Plugins or Generic themes, so users could extend the themes the way they wanted
-  * Partner: [Nextt](http://www.nextt.com.br/)
-  * Role: WordPress Developer
-  * Tech: WordPress, Amazon AWS, Git Flow, Git
 
 ### Projects never published ###
 
-* HighRide: **_CANCELED_** This project was a reward program. I was the Android and BackEnd developer. The project was cancelled for funding issues.
-  * Tech: Android, Android Studio, BitBucket, Firebase, Heroku, Node, Express, MongoDB, Mongoose
+* HighRide: **_CANCELED_** This project was a reward program. I was the Android and Back-end developer. The project was cancelled for funding issues.
 
 ## Past jobs ##
 ### Remote Front End Developer at [Qikker Online](https://qikkeronline.nl/) ( Netherlands ) ###
