@@ -9,20 +9,19 @@ But I'm still humble: from time to time I look for courses to polish my knowledg
 
 ### Looking for ###
 I love PHP, JavaScript, Mobile and many other things. And IMHO a developer must love to develop, whatever the language it is (it took some time to learn that sadly). That's why it's hard to limit what I'm looking for. So:
-* I would like to work with Front-end because I love to learn about UX and make beautiful UI
-* I would like to work with Back-end beacuse I like to know the project from top to bottom, that's the only way you make a solid API
-* I'm open to some other positions too because I love to learn. 
-The point is: if you work with a nice team, with nice people, you can work your way to be happy.
+* I like to work with Front-end because I love to learn about UX and make beautiful UI
+* I like to work with Back-end beacuse I like to know the project from top to bottom, that's the only way you make a solid API
+The point is: I'm a full stack developer wanting to work with a nice team, with nice people, being a web-coworker :)
 
 ### Favourite tech stack ###
 
-* JavaScript Technologies: ReactJS + Redux, React Native, Ionic, AngularJS, NodeJS, ExpressJS
-* Mobile: Android, ObjectiveC, Cordova
 * PHP: OOP, WordPress
+* JavaScript Technologies: React(JS/Native) and Friends, Ionic/Angular, NodeJS/ExpressJS, Firebase
+* Mobile: Android, ObjectiveC, Cordova
 * Tools: Zeplin, Sketch, Invision, Photoshop Illustrator, Slack, Git,
 * Methodologies: BEM, Git Flow, [StandardJS](https://standardjs.com/)
  
-### Techs I want to Learn ###
+### Techs I want to Learn/Use More ###
 
 * Angular (2... no... 4? Can this guys calm down?!)
 * Swift (iOS)
