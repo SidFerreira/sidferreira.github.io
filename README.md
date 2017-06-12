@@ -8,10 +8,10 @@ I'm a self starter and self-taught, almost everything I work I learned by myself
 But I'm still humble: from time to time I look for courses to polish my knowledge.
 
 ### Looking for ###
-I love PHP, JavaScript, Mobile and many other things. And IMHO a developer must love to develop, whatever the language it is (it took some time to learn that sadly). That's why it's hard to limit what I'm looking for. So:
-* I like to work with Front-end because I love to learn about UX and make beautiful UI
-* I like to work with Back-end beacuse I like to know the project from top to bottom, that's the only way you make a solid API
-The point is: I'm a full stack developer wanting to work with a nice team, with nice people, being a web-coworker :)
+I love PHP, JavaScript, Mobile and many other things. And IMHO a developer must love to develop, whatever the language it is. That's why it's hard to limit what I'm looking for. So I describe my self as a full stack developer wanting to work with a nice team, with nice people, being a web-coworker :)
+
+* Yes, I love the Front-end because of UX and make beautiful UI
+* Yes, I love the Back-end beacuse that's where the magic happens.
 
 ### Favourite tech stack ###
 
@@ -20,46 +20,24 @@ The point is: I'm a full stack developer wanting to work with a nice team, with 
 * Mobile: Android, ObjectiveC, Cordova
 * Tools: Zeplin, Sketch, Invision, Photoshop Illustrator, Slack, Git,
 * Methodologies: BEM, Git Flow, [StandardJS](https://standardjs.com/)
- 
-### Techs I want to Learn/Use More ###
-
-* Angular (2... no... 4? Can this guys calm down?!)
-* Swift (iOS)
-* Java (I know some stuff, enough for Android, but I want to learn the real thing)
-
-### Current Projects ###
-
-* [My Venuely](http://myvenuely.com/): Small startup project related to Wedding Venues.
-  * Tech: Firebase (DB, Auth, Functions, Push, Hosting), 
-   React Native, 
-   Redux, 
-   WebPack, 
-   SVG,
-   Facebook API, 
-  [StandardJS](https://standardjs.com/)
-  * Role: Solo Developer
-
-* NDA Projects: Projects that I can't disclose right now, but talking about tech stack
-  1. ReactJS, Firebase, Facebook API (Website + Admin Dashboard)
-  2. Angular 2, Firebase (Admin Dashboard + Ionic APP integration)
 
 ### Recent Projects ###
 
-* [Twittume](http://twittume.com/): Ionic App (Android/iOS/Web) + Landing page for this Resume Tool
-* [Dinnershow](https://www.dinnershow.nl/): Custom WordPress Theme for a show from Netherlands
-* [Gabbers](https://www.gabbers.nl/): Custom WordPress Theme for a comedy/standup show from Netherlands
-* [Ground Zero Festival](https://www.groundzerofestival.nl/): Custom WordPress Theme for a techno festival from Netherlands
-* [Dance Valley Festival](https://dancevalley.com/): Custom WordPress Theme for a music festival from Netherlands
-* [Prodock](http://www.prodock.nl/): Custom WordPress Theme for a coworking space in Amsterdam  
-* [Super Car Experience](https://www.superexperience.com/): Custom WordPress Theme for a coworking space in Amsterdam
-* [Sint in Amsterdam](http://www.sintinamsterdam.nl/): Custom WordPress Theme for the Sinterklaas, a folkloric person from Netherlands
-
-* CETIP Tool: **_Non Public_** App for car documentation. My task was to develope and improve features for iOS devices
-
-* [Gazo](https://play.google.com/store/apps/details?id=br.com.neoway.gazo): **_ABANDONED_** Gas price app. The owner company abandoned the project for unknown reasons.
-
-* [SDA portal](http://www.adventistas.org/pt/): WordPress portal for the South American Division from the Seventh Day Adventist Church.
-  * Details: This is a huge portal we developer over a whole year. One of the requests was that the portal had distributed installs (one for each department) but they wanted to have a way that one install could fetch posts from other installs, including thumbnails, metadata, etc. We developed a custom WP Query for that. Also we created a Widget plugin so users could fetch the information and display in any way they wanted. We even had a (styleguide)[http://styleguide.adventistas.org/pt/] for other developers. Everything was developed as Plugins or Generic themes, so users could extend the themes the way they wanted
+* Custom WordPress Sites
+  * [Dinnershow](https://www.dinnershow.nl/): Show from Netherlands
+  * [Gabbers](https://www.gabbers.nl/): Comedy/standup show from Netherlands
+  * [Ground Zero Festival](https://www.groundzerofestival.nl/): Techno festival from Netherlands
+  * [Dance Valley Festival](https://dancevalley.com/): Music festival from Netherlands
+  * [Prodock](http://www.prodock.nl/): Coworking space in Amsterdam  
+  * [Super Car Experience](https://www.superexperience.com/): Sports car rental in Netherlands
+  * [Sint in Amsterdam](http://www.sintinamsterdam.nl/): A folkloric person from Netherlands
+  * [SDA portal](http://www.adventistas.org/pt/): WordPress portal for the South American Division from the Seventh Day Adventist Church.
+    * Details: This is a huge portal we developer over a whole year. One of the requests was that the portal had distributed installs (one for each department) but they wanted to have a way that one install could fetch posts from other installs, including thumbnails, metadata, etc. We developed a custom WP Query for that. Also we created a Widget plugin so users could fetch the information and display in any way they wanted. We even had a (styleguide)[http://styleguide.adventistas.org/pt/] for other developers. Everything was developed as Plugins or Generic themes, so users could extend the themes the way they wanted
+  
+* Mobile Apps:
+  * [Twittume](http://twittume.com/): Ionic App (Android/iOS/Web) + Landing page for this Resume Tool
+  * CETIP Tool: **_Non Public_** App for car documentation. My task was to develope and improve features for iOS devices
+  * [Gazo](https://play.google.com/store/apps/details?id=br.com.neoway.gazo): **_ABANDONED_** Gas price app. The owner company abandoned the project for unknown reasons.
 
 ### Projects never published ###
 
