@@ -8,10 +8,9 @@ I'm a self starter and self-taught, almost everything I work I learned by myself
 But I'm still humble: from time to time I look for courses to polish my knowledge.
 
 ### Looking for ###
-I love PHP, JavaScript, Mobile and many other things. And IMHO a developer must love to develop, whatever the language it is. That's why it's hard to limit what I'm looking for. So I describe my self as a full stack developer wanting to work with a nice team, with nice people, being a web-coworker :)
+I love PHP, JavaScript, Mobile and many other things. And IMHO a developer must love to develop, whatever the language and technology it is. That's why it's hard to limit what I'm looking for. So I describe my self as a full stack developer looking for a great team, with nice people, being not just a freelancer but a web-coworker :)
 
-* Yes, I love the Front-end because of UX and make beautiful UI
-* Yes, I love the Back-end beacuse that's where the magic happens.
+I love both Front-end and Back-end. The nice part about Front-end is to make great looking experiences. The nice part about Back-end? Well, make the magic happen!
 
 ### Favourite tech stack ###
 
