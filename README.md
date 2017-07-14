@@ -20,23 +20,23 @@ I love both Front-end and Back-end. The nice part about Front-end is to make gre
 
 ### Recent Projects ###
 
-* Custom WordPress Sites
-  * [Dinnershow](https://www.dinnershow.nl/): Show from Netherlands
-  * [Gabbers](https://www.gabbers.nl/): Comedy/standup show from Netherlands
-  * [Ground Zero Festival](https://www.groundzerofestival.nl/): Techno festival from Netherlands
-  * [Dance Valley Festival](https://dancevalley.com/): Music festival from Netherlands
-  * [Prodock](http://www.prodock.nl/): Coworking space in Amsterdam  
-  * [Super Car Experience](https://www.superexperience.com/): Sports car rental in Netherlands
-  * [Sint in Amsterdam](http://www.sintinamsterdam.nl/): A folkloric person from Netherlands
+* Custom WordPress Sites (Not just templates)
+  * [Dinnershow](https://www.dinnershow.nl/): https://www.dinnershow.nl/
+  * [Gabbers](https://www.gabbers.nl/): https://www.gabbers.nl/
+  * [Ground Zero Festival](https://www.groundzerofestival.nl/): https://www.groundzerofestival.nl/ (WooCommerce)
+  * [Dance Valley Festival](https://dancevalley.com/): https://dancevalley.com/
+  * [Prodock](http://www.prodock.nl/): http://www.prodock.nl/ 
+  * [Super Car Experience](https://www.superexperience.com/): https://www.superexperience.com/
+  * [Sint in Amsterdam](http://www.sintinamsterdam.nl/): http://www.sintinamsterdam.nl/
   * [SDA portal](http://www.adventistas.org/pt/): WordPress portal for the South American Division from the Seventh Day Adventist Church.
-    * Details: This is a huge portal we developer over a whole year. One of the requests was that the portal had distributed installs (one for each department) but they wanted to have a way that one install could fetch posts from other installs, including thumbnails, metadata, etc. We developed a custom WP Query for that. Also we created a Widget plugin so users could fetch the information and display in any way they wanted. We even had a (styleguide)[http://styleguide.adventistas.org/pt/] for other developers. Everything was developed as Plugins or Generic themes, so users could extend the themes the way they wanted
+    * This is a huge portal we developer over a whole year. One of the requests was that the portal had distributed installs (one for each department) but they wanted to have a way that one install could fetch posts from other installs, including thumbnails, metadata, etc. We developed a custom WP Query for that. Also we created a Widget plugin so users could fetch the information and display in any way they wanted. We even had a (styleguide)[http://styleguide.adventistas.org/pt/] for other developers. Everything was developed as Plugins or Generic themes, so users could extend the themes the way they wanted
   
 * Mobile Apps:
   * [Twittume](http://twittume.com/): Ionic App (Android/iOS/Web) + Landing page for this Resume Tool
   * CETIP Tool: **_Non Public_** App for car documentation. My task was to develope and improve features for iOS devices
   * [Gazo](https://play.google.com/store/apps/details?id=br.com.neoway.gazo): **_ABANDONED_** Gas price app. The owner company abandoned the project for unknown reasons.
 
-## Past jobs ##
+## Experience ##
 ### Remote Front End Developer at [Qikker Online](https://qikkeronline.nl/) ( Netherlands ) ###
  * From Aug 2015 to Nov 2016
  * Techs: WordPress, Git, GitFlow
