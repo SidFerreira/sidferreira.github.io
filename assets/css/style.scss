@@ -3,8 +3,23 @@
 
 @import "{{ site.theme }}";
 
+.project-name {
+  color: #159957;
+}
+.page-header {
+  color: initial;
+  background-color: #fff;
+  background-image: none;
+
+@media screen and (min-width: 64em) {
+  .page-header {
+    padding: 2rem 0rem;
+  }
+}
+
 @media only print {
-  .project-tagline, .site-footer {
+  .project-tagline, .site-footer {{
+    
     display: none;
   }
   #current-projects, #past-jobs, #finished-projects + ul > li:nth-child(7) {
