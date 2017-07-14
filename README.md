@@ -12,12 +12,10 @@ I love PHP, JavaScript, Mobile and many other things. And IMHO a developer must 
 
 I love both Front-end and Back-end. The nice part about Front-end is to make great looking experiences. The nice part about Back-end? Well, make the magic happen!
 
-### Favourite tech stack ###
+### Stack ###
 
-* PHP: OOP, WordPress
-* JavaScript Technologies: React(JS/Native) and Friends, Ionic/Angular, NodeJS/ExpressJS, Firebase
-* Mobile: Android, ObjectiveC, Cordova
-* Tools: Zeplin, Sketch, Invision, Photoshop Illustrator, Slack, Git,
+* Programming: PHP, WordPress, React(JS/Native), Ionic/Angular 1, Firebase, Android, ObjectiveC, Cordova
+* Tools: Zeplin, Sketch, Invision, Photoshop Illustrator, Slack, Git
 * Methodologies: BEM, Git Flow, [StandardJS](https://standardjs.com/)
 
 ### Recent Projects ###
@@ -37,10 +35,6 @@ I love both Front-end and Back-end. The nice part about Front-end is to make gre
   * [Twittume](http://twittume.com/): Ionic App (Android/iOS/Web) + Landing page for this Resume Tool
   * CETIP Tool: **_Non Public_** App for car documentation. My task was to develope and improve features for iOS devices
   * [Gazo](https://play.google.com/store/apps/details?id=br.com.neoway.gazo): **_ABANDONED_** Gas price app. The owner company abandoned the project for unknown reasons.
-
-### Projects never published ###
-
-* HighRide: **_CANCELED_** This project was a reward program. I was the Android and Back-end developer. The project was cancelled for funding issues.
 
 ## Past jobs ##
 ### Remote Front End Developer at [Qikker Online](https://qikkeronline.nl/) ( Netherlands ) ###
