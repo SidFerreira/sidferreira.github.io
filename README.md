@@ -1,11 +1,11 @@
 ### About me ###
 
-I'm Sidney Ferreira, I've been a developer a long time now. 
+I'm Sidney Ferreira, I've been a developer a long time now (more than 10 years professionally). 
 I started at 16 when a friend of mine told me about a "Programming Logics" course.
 Since then I "sold my soul" for computers :D
 
-I'm a self starter and self-taught, almost everything I work I learned by myself. Including english, PHP and Android.
-But I'm still humble: from time to time I look for courses to polish my knowledge.
+I'm a self starter and quick learner... Almost everything I work I learned by myself. Including english, PHP and Android.
+But I'm still humble: from time to time I look for courses to polish my knowledge and I'm always open to learn something new.
 
 ### Looking for ###
 I love PHP, JavaScript, Mobile and many other things. And IMHO a developer must love to develop, whatever the language and technology it is. That's why it's hard to limit what I'm looking for. So I describe my self as a full stack developer looking for a great team, with nice people, being not just a freelancer but a web-coworker :)
