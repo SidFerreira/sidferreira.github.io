@@ -4,7 +4,15 @@
 * Tools: Zeplin, Sketch, Invision, Photoshop Illustrator, Slack, Git
 * Methodologies: BEM, Git Flow, [StandardJS](https://standardjs.com/)
 
-### Interesting Projects ###
+### Favourite Projects ###
+
+* 2017
+  * The Host MVP - [http://thehost.com/](http://thehost.com):
+    * NodeJs + Angular contractor for this MVP. Joined mid project to help finishing first MVP.
+  * Jaba - [http://jaba.io/](http://jaba.io/):
+    * Personal side project: a Firebase+ReactJS powered moderation tool for Facebook. The development stoped as I found deal-breaking limitations on Facebook Api.
+  * AOR Firebase Client - [https://github.com/sidferreira/aor-firebase-client](https://github.com/sidferreira/aor-firebase-client)
+    * Open source "plugin" for Admin On Rest tool to use Firebase as server. This is a work in progress that includes Firebase and Unit Testing with Jest.
 
 * 2016
   * Social Login Plugin - [https://github.com/sidferreira/qikker_social_login](https://github.com/sidferreira/qikker_social_login)
@@ -42,7 +50,7 @@
     * MultiPost Widget: This widget is the heart of the system. It would allow to pick one of the widgets from the style guide and customize column size (4/8/12), source (which site), frequency to fetch, reorder, post type, and other details.
   
 
-## Experience ##
+## Recent Experience ##
 ### Remote Front End Developer at [Qikker Online](https://qikkeronline.nl/) ( Netherlands ) ###
  * From Aug 2015 to Nov 2016
  * Techs: WordPress, Git, GitFlow
