@@ -1,40 +1,46 @@
-### About me ###
-
-I'm Sidney Ferreira, I've been a developer a long time now (more than 10 years professionally). 
-I started at 16 when a friend of mine told me about a "Programming Logics" course.
-Since then I "sold my soul" for computers :D
-
-I'm a self starter and quick learner... Almost everything I work I learned by myself. Including english, PHP and Android.
-But I'm still humble: from time to time I look for courses to polish my knowledge and I'm always open to learn something new.
-
-### Looking for ###
-I love PHP, JavaScript, Mobile and many other things. And IMHO a developer must love to develop, whatever the language and technology it is. That's why it's hard to limit what I'm looking for. So I describe my self as a full stack developer looking for a great team, with nice people, being not just a freelancer but a web-coworker :)
-
-I love both Front-end and Back-end. The nice part about Front-end is to make great looking experiences. The nice part about Back-end? Well, make the magic happen!
-
 ### Stack ###
 
 * Programming: PHP, WordPress, React(JS/Native), Ionic/Angular 1, Firebase, Android, ObjectiveC, Cordova
 * Tools: Zeplin, Sketch, Invision, Photoshop Illustrator, Slack, Git
 * Methodologies: BEM, Git Flow, [StandardJS](https://standardjs.com/)
 
-### Recent Projects ###
+### Interesting Projects ###
 
-* Custom WordPress Sites (Not just templates)
-  * [Dinnershow](https://www.dinnershow.nl/): https://www.dinnershow.nl/
-  * [Gabbers](https://www.gabbers.nl/): https://www.gabbers.nl/
-  * [Ground Zero Festival](https://www.groundzerofestival.nl/): https://www.groundzerofestival.nl/ (WooCommerce)
-  * [Dance Valley Festival](https://dancevalley.com/): https://dancevalley.com/
-  * [Prodock](http://www.prodock.nl/): http://www.prodock.nl/ 
-  * [Super Car Experience](https://www.superexperience.com/): https://www.superexperience.com/
-  * [Sint in Amsterdam](http://www.sintinamsterdam.nl/): http://www.sintinamsterdam.nl/
-  * [SDA portal](http://www.adventistas.org/pt/): WordPress portal for the South American Division from the Seventh Day Adventist Church.
-    * This is a huge portal we developer over a whole year. One of the requests was that the portal had distributed installs (one for each department) but they wanted to have a way that one install could fetch posts from other installs, including thumbnails, metadata, etc. We developed a custom WP Query for that. Also we created a Widget plugin so users could fetch the information and display in any way they wanted. We even had a (styleguide)[http://styleguide.adventistas.org/pt/] for other developers. Everything was developed as Plugins or Generic themes, so users could extend the themes the way they wanted
+* 2016
+  * Social Login Plugin - [https://github.com/sidferreira/qikker_social_login](https://github.com/sidferreira/qikker_social_login)
+    * Custom WP plugin for Social/WP login (you can choose). Used at [https://electronicfamily.nl/](https://electronicfamily.nl/).
+  * Dinnershow - [https://www.dinnershow.nl/](https://www.dinnershow.nl/) 
+    * Custom WP+ACF website. Coded front and back.
+  * Gabbers - [https://www.gabbers.nl/](https://www.gabbers.nl/) 
+    * Custom WP+ACF website. Coded front and back.
+  * Ground Zero Festival - [https://www.groundzerofestival.nl/](https://www.groundzerofestival.nl/) 
+    * Custom WP+ACF+WooCommerce website. Coded front-end.
+  * Dance Valley Festival - [https://dancevalley.com/](https://dancevalley.com/)
+    * Custom WP+ACF+WooCommerce website. Coded front-end.
+  * Prodock - [http://www.prodock.nl/](http://www.prodock.nl/) 
+    * Custom WP+ACF website. Coded front and back.
+  * Super Car Experience - [https://www.superexperience.com/](https://www.superexperience.com/) 
+    * Custom WP+ACF website. Coded front and back.
+  * Twittume - [http://twittume.com/](http://twittume.com/) 
+    * Ionic App (Android/iOS/Web) + Landing page for this Resume Tool
+
+* 2015
+  * Sint in Amsterdam [http://www.sintinamsterdam.nl/](http://www.sintinamsterdam.nl/): 
+    * Custom WP website. Coded front and back.
+  * MobiRoller [http://mobiroller.com/](http://mobiroller.com/): 
+    * Developed an hybrid client using Ionic/Angular and Cordova. Including plugin customizations to better fit the project, both Android and iOS.
+
+* 2014
+  * CETIP Tool: 
+    * **_Non Public_** App for car documentation. SenchaTouch + Cordova app, I developed custom plugins for iOS using ObjectiveC.
+  * Gazo - [https://play.google.com/store/apps/details?id=br.com.neoway.gazo](https://play.google.com/store/apps/details?id=br.com.neoway.gazo): 
+    * Gas price app. The owner company abandoned the project for unknown reasons. SenchaTouch + Cordova app, I was maintaining it until the project was abandoned.
+  * SDA Portal - [http://www.adventistas.org/pt/](http://www.adventistas.org/pt/):
+    * This is a huge WordPress portal we developed over a whole year. One of the requests was that the portal had distributed installs (one for each department) but they wanted to have a way that one install could fetch posts from other installs, including thumbnails, metadata, also dynamic column contents. Hosted on AWS using Beanstalk, Nginx, Git deploy
+    * IASD Styleguide: (http://styleguide.adventistas.org/pt/) was a complex and detailed guide we used to display the contents on the website.
+    * IASD_Query: WP_Query customization. It allow the sites to copy posts from each other. This was the engine for the MultiPost Widget. The information shared included thumbs and post metadata. While working in the project, I was able to keep 99% code coverage.
+    * MultiPost Widget: This widget is the heart of the system. It would allow to pick one of the widgets from the style guide and customize column size (4/8/12), source (which site), frequency to fetch, reorder, post type, and other details.
   
-* Mobile Apps:
-  * [Twittume](http://twittume.com/): Ionic App (Android/iOS/Web) + Landing page for this Resume Tool
-  * CETIP Tool: **_Non Public_** App for car documentation. My task was to develope and improve features for iOS devices
-  * [Gazo](https://play.google.com/store/apps/details?id=br.com.neoway.gazo): **_ABANDONED_** Gas price app. The owner company abandoned the project for unknown reasons.
 
 ## Experience ##
 ### Remote Front End Developer at [Qikker Online](https://qikkeronline.nl/) ( Netherlands ) ###
@@ -58,4 +64,13 @@ I love both Front-end and Back-end. The nice part about Front-end is to make gre
  * Highlights: Linux, Unix, PHP, MySQL
  * Details: A mix between Computer Science and Administration, I ve learned a lot studying but learned programming with pascal back in 1996. PHP was learned as an extra curricular project and web became my job. Despite being a small university, at that time it was well known for it's linux and unix classes.
  
+## Bio ##
+
+I'm Sidney Ferreira, I've been a developer a long time now (more than 10 years professionally). 
+I started at 16 when a friend of mine told me about a "Programming Logics" course.
+Since then I "sold my soul" for computers :D
+
+I'm a self starter and quick learner... Almost everything I work I learned by myself. Including english, PHP and Android.
+But I'm still humble: from time to time I look for courses to polish my knowledge and I'm always open to learn something new.
+
  
