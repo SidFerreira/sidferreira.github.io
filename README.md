@@ -12,7 +12,7 @@
   * Jaba - [http://jaba.io/](http://jaba.io/):
     * Personal side project: a Firebase+ReactJS powered moderation tool for Facebook. The development stoped as I found deal-breaking limitations on Facebook Api.
   * AOR Firebase Client - [https://github.com/sidferreira/aor-firebase-client](https://github.com/sidferreira/aor-firebase-client)
-    * Open source "plugin" for Admin On Rest tool to use Firebase as server. This is a work in progress that includes Firebase and Unit Testing with Jest.
+    * Open source "plugin" for Admin On Rest tool to use Firebase as server. This is a work in progress that includes Firebase and Unit Testing with Jest.
 
 * 2016
   * Social Login Plugin - [https://github.com/sidferreira/qikker_social_login](https://github.com/sidferreira/qikker_social_login)
