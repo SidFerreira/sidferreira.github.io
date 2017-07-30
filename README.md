@@ -1,8 +1,9 @@
 ### Stack ###
 
-* Programming: PHP, WordPress, React(JS/Native), Ionic/Angular 1, Firebase, Android, ObjectiveC, Cordova
+* Programming: PHP, WordPress, React(JS/Native), Ionic/Angular 1, Firebase, Android, ObjectiveC, Cordova, Node
 * Tools: Zeplin, Sketch, Invision, Photoshop Illustrator, Slack, Git
-* Methodologies: BEM, Git Flow, [StandardJS](https://standardjs.com/)
+* Methodologies: BEM, Git Flow, [StandardJS](https://standardjs.com/), OOP
+* Qualities: Self learner, excelent written english, advanced spoken english
 
 ### Favourite Projects ###
 
@@ -56,7 +57,7 @@
  * Techs: WordPress, Git, GitFlow
  * Details: Qikker Online is a great digital agency from Netherlands which I've been working part time. Focused in WordPress development, other than maintenance on some frameworks. I've worked as frontend developer, creating fantastic projects.
 
-### Junior Mobile Developet at [Neoway](http://www.neoway.com.br/) ###
+### Junior Mobile Developer at [Neoway](http://www.neoway.com.br/) ###
  * From Jun 2014 to Nov 2014
  * Techs: Sencha Touch, Ionic Framework, AngularJS, UX, ObjectiveC, iOS Development
  * Details: Neoway is a great technology company in Brazil and outside of it. My releationship there was short because the project was cancelled and I was laid off.
