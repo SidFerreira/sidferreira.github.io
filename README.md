@@ -1,3 +1,12 @@
+### Bio ###
+
+I'm Sidney Ferreira, I've been a developer a long time now (more than 10 years professionally). 
+I started at 16 when a friend of mine told me about a "Programming Logics" course.
+Since then I "sold my soul" for computers :D
+
+I'm a self starter and quick learner... Almost everything I work I learned by myself. Including english, PHP and Android.
+But I'm still humble: from time to time I look for courses to polish my knowledge and I'm always open to learn something new.
+
 ### Stack ###
 
 * Programming: PHP, WordPress, React(JS/Native), Ionic/Angular 1, Firebase, Android, ObjectiveC, Cordova, Node
@@ -71,15 +80,4 @@
 ### Information Systems Bachelor – [Unijui](http://www.unijui.edu.br/) ###
  * From 2001 to 2006
  * Highlights: Linux, Unix, PHP, MySQL
- * Details: A mix between Computer Science and Administration, I ve learned a lot studying but learned programming with pascal back in 1996. PHP was learned as an extra curricular project and web became my job. Despite being a small university, at that time it was well known for it's linux and unix classes.
- 
-## Bio ##
-
-I'm Sidney Ferreira, I've been a developer a long time now (more than 10 years professionally). 
-I started at 16 when a friend of mine told me about a "Programming Logics" course.
-Since then I "sold my soul" for computers :D
-
-I'm a self starter and quick learner... Almost everything I work I learned by myself. Including english, PHP and Android.
-But I'm still humble: from time to time I look for courses to polish my knowledge and I'm always open to learn something new.
-
- 
+ * Details: A mix between Computer Science and Administration, I ve learned a lot studying but learned programming with pascal back in 1996. PHP was learned as an extra curricular project and web became my job. Despite being a small university, at that time it was well known for it's linux and unix classes. 
