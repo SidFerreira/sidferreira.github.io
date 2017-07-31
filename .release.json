@@ -1,0 +1,6 @@
+{
+  "dist": {
+    "repo": "https://github.com/sidferreira/sidferreira.github.io",
+    "beforeStageCommand": "cat readme.yml ../README.md > index.md"
+  }
+}
