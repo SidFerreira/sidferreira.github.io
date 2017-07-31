@@ -19,4 +19,4 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/sidferreira.jpg
+      image: https://avatars3.githubusercontent.com/u/143615
