@@ -4,4 +4,16 @@ description: "Proud father, happy developer, enjoys emoji and gifs<br><small>Flo
 google_analytics: [UA-97627426-1]
 gems:
   - jekyll-seo-tag
-  
+author:
+    twitter: sidferreiraz
+social:
+  name: Sid Ferreira
+  links:
+    - https://twitter.com/sidferreiraz
+    - https://www.facebook.com/sidferreiraz
+    - https://www.linkedin.com/in/sidferreira/
+    - https://github.com/sidferreira
+image:
+  path: /assets/img/sidferreira.jpg
+  height: 512
+  width: 512
