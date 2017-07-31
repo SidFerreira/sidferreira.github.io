@@ -1,12 +1,12 @@
 theme: jekyll-theme-cayman
-title: "Sid Ferreira - Resume"
+title: "Sid Ferreira"
 description: "Remote Developer - Florianopolis / Brazil (UTC-3) - sid&commat;ferreiraz&period;com&period;br"
 description_alt: "Proud father, happy developer, enjoys emoji and gifs<br><small>Florianopolis / Brazil (UTC-3) - sid&commat;ferreiraz&period;com&period;br</small>"
 google_analytics: [UA-97627426-1]
 gems:
   - jekyll-seo-tag
 site: 
-  title: "Sid Ferreira - Resume"
+  title: "Sid Ferreira"
   description: "Remote Developer - Florianopolis / Brazil (UTC-3) - sid&commat;ferreiraz&period;com&period;br"
 social:
   name: Sid Ferreira
