@@ -1,3 +1,5 @@
+## Resume
+
 ### Bio
 
 I'm Sidney Ferreira, I've been a developer a long time now (more than 10 years professionally). 
