@@ -4,7 +4,7 @@
 
 I'm Sidney Ferreira, I've been a developer a long time now (more than 10 years professionally). 
 I started at 16 when a friend of mine told me about a "Programming Logics" course.
-Since then I "sold my soul" for computers :D
+Since then I "sold my soul" to programming.
 
 I'm a self starter and quick learner... Almost everything I work I learned by myself. Including english, PHP and Android.
 But I'm still humble: from time to time I look for courses to polish my knowledge and I'm always open to learn something new.
