@@ -15,7 +15,4 @@ social:
     - https://www.facebook.com/sidferreiraz
     - https://www.linkedin.com/in/sidferreira/
     - https://github.com/sidferreira
-image:
-  path: /assets/img/sidferreira.jpg
-  height: 512
-  width: 512
+image: /assets/img/sidferreira.jpg
