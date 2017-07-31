@@ -1,6 +1,6 @@
 {
   "dist": {
-    "repo": "https://github.com/sidferreira/sidferreira.github.io",
+    "repo": "git@github.com:sidferreira/sidferreira.github.io.git",
     "beforeStageCommand": "cat readme.yml ../README.md > index.md"
   }
 }
