@@ -12,7 +12,7 @@ But I'm still humble: from time to time I look for courses to polish my knowledg
 ### Stack
 
 * Programming: PHP, WordPress, React(JS/Native), Ionic/Angular 1, Firebase, Android, ObjectiveC, Cordova, Node
-* Tools: Zeplin, Sketch, Invision, Photoshop Illustrator, Slack, Git
+* Tools: Zeplin, Sketch, Invision, Photoshop Illustrator, Slack, Git, Gulp, Grunt, SASS/Less
 * Methodologies: BEM, Git Flow, [StandardJS](https://standardjs.com/), OOP
 * Qualities: Self learner, excelent written english, advanced spoken english
 
