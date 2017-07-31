@@ -1,7 +1,3 @@
----
-title: "Sid Ferreira - Resume"
-description: "Remote developer from Brazil (UTC-3)"
----
 
 ### Bio ###
 
